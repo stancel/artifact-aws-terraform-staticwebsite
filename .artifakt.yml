@@ -19,7 +19,7 @@ available_regions:
  - us-east-2
  - us-west-1
  - us-west-2 
-image: http://assets.artifakt.io/quickstart-artifact.png
+image: https://assets.artifakt.io/quickstart-artifact.png
 category: other
 main_language: html_css
 licence:
