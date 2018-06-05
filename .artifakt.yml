@@ -19,7 +19,7 @@ available_regions:
  - us-east-2
  - us-west-1
  - us-west-2 
-image: https://assets.artifakt.io/quickstart-artifact.png
+image: https://assets.artifakt.io/artifacts/quickstart-artifact.png
 category: other
 main_language: html_css
 licence:
@@ -30,7 +30,7 @@ tags:
  - staticwebsite
  - upload
 infrastructure:
-  diagram: https://assets.artifakt.io/staticwebsite-aws-terraform.png
+  diagram: https://assets.artifakt.io/artifacts/staticwebsite-aws-terraform.png
   build_time: 15 #in seconds 
   cost_estimation:
     monthly_price: 0.02  #in dollars per month 
